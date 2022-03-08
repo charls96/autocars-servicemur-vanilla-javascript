@@ -1,0 +1,148 @@
+body {
+  background-color: rgb(240, 240, 240);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.red-div {
+  right: 4.5em;
+  bottom: 4.3em;
+}
+.chat-bot {
+  position: fixed;
+  bottom: -10px;
+  right: 10%;
+}
+
+.div-chat {
+  width: 350px;
+  height: 350px;
+  position: fixed;
+  bottom: 95px;
+  right: 4.5em;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.div-chat-triangle {
+  position: fixed;
+  right: 4em;
+  margin-right: 12px;
+  bottom: 85px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid white;
+}
+
+.header-bot {
+  background-color: rgb(9, 94, 84);
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-logo-bot {
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 0;
+}
+
+.img-user-whatsapp::before {
+  content: "";
+  bottom: 0px;
+  right: 0px px;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+  background-color: rgb(74, 213, 4);
+  display: block;
+  position: absolute;
+  z-index: 50;
+  border-radius: 50%;
+  border: 2px solid rgb(9, 94, 84);
+}
+
+.header-bot-name {
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+
+.bot-cross {
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.bot-cross {
+  fill: black !important;
+  cursor: pointer;
+}
+
+.body-bot {
+  /* background-image: url(https://elfsight.com/assets/chats/patterns/whatsapp.png); */
+  position: relative;
+  height: 235px;
+  background-color: rgb(230, 221, 212);
+  overflow-y: auto;
+}
+
+.body-bot::before {
+  display: block;
+  position: absolute;
+  content: "";
+  left: 0px;
+  top: 0;
+  height: 80%;
+  width: 100%;
+  z-index: 0;
+  opacity: 0.08;
+  background-image: url("https://elfsight.com/assets/chats/patterns/whatsapp.png");
+}
+
+.option-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5px;
+  background-color: bisque;
+}
+
+.option-buttons a {
+  background-color: cadetblue;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 0.5em 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.conversation > p {
+  background-color: cadetblue;
+  color: white;
+  font-size: 1em;
+  margin-left: 15px;
+  border-radius: 10px;
+  width: fit-content;
+  padding: 0.5em 10px;
+  box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 640px) {
+  .div-chat {
+    width: 300px;
+    right: 2.5em;
+  }
+
+  .div-chat-triangle {
+    right: 2.1em;
+  }
+
+  .body-bot {
+    width: 300px;
+  }
+}
