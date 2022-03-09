@@ -51,7 +51,7 @@ cc.run({
           {
             title: "Uso de las cookies 📢",
             description:
-              'Usamos las cookies para asegurar las funcionalidades basicas de la web y para mejorar tu experiencia. Para más detalles en relación a las cookies y otra información sensible, por favor lee <a href="http://naturalmoralma.com/index.php/politica-de-cookies/" class="cc-link">política de privacidad</a>.',
+              'Usamos las cookies para asegurar las funcionalidades basicas de la web y para mejorar tu experiencia. Para más detalles en relación a las cookies y otra información sensible, por favor lee <a href="/politica-privacidad.html" class="cc-link">política de privacidad</a>.',
           },
           {
             title: "Cookies estríctamente necesarias",
@@ -105,7 +105,7 @@ cc.run({
           {
             title: "Más información",
             description:
-              'Si tienes alguna consulta no dudes en ponerte en <a class="cc-link" href="https://naturalmoralma.com/index.php/contact/">contacto con nosotros</a>.',
+              'Si tienes alguna consulta no dudes en ponerte en contacto con nosotros.',
           },
         ],
       },

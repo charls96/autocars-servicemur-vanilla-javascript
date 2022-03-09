@@ -10,7 +10,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',
@@ -27,7 +27,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',
@@ -44,7 +44,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',
@@ -61,7 +61,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',
@@ -78,7 +78,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',
@@ -95,7 +95,7 @@ const cars = [
 		gear: 'Manual',
 		mileage: '255000',
 		hp: 90,
-		description: 'En perfecto estado impecable , itv  renovada, Neumaticos buen estado, distribución cambiada , aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
+		description: 'En perfecto estado impecable, itv renovada, Neumaticos buen estado, distribución cambiada, aire acondicionado, motor 1.6. Se acepta prueba mecánica.',
 		imgs: {
 			portada: 'imgs/partner/partner.png',
 			img1: 'imgs/partner/partner-2.png',

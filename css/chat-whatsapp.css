@@ -142,6 +142,11 @@ body {
     right: 2.1em;
   }
 
+  .red-div {
+    right: 2.5em;
+    bottom: 4.3em;
+  }
+
   .body-bot {
     width: 300px;
   }
